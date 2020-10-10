@@ -20,6 +20,8 @@ public class ClinicMain {
       }
       System.out.println("\nExiting System...\n");
       System.out.println("End of the system");
+      System.out.println("Added to check the git conflicts ");
+
    }
 
    private static String displayMenu(Scanner scanner) throws Throwable {
