@@ -19,6 +19,7 @@ public class ClinicMain {
          lastOption = displayMenu(scanner);
       }
       System.out.println("\nExiting System...\n");
+      System.out.println("End of the system");
    }
 
    private static String displayMenu(Scanner scanner) throws Throwable {
